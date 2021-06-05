@@ -1,3 +1,6 @@
+IT Logger App using react, redux, json server as the mock bacckend
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
